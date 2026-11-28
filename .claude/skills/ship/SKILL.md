@@ -16,7 +16,6 @@ description: Open a pull request for a finished Octave branch, wait for CI, merg
 ## Open the PR
 
 - Before a top-level screen ships, ask the owner to try its key tasks on a real TV with its remote; involve a household member or use a household device only with the owner's word for that run.
-
 - Create it with `gh pr create --base main`.
 - Use a Conventional Commit subject as the title.
 - Fill in every section of `.github/pull_request_template.md`.
